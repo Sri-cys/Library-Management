@@ -1,0 +1,17 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.import.maven.enabled": true,
+    "java.import.generatesMetadataFilesAtProjectRoot": false,
+    "maven.pomPath": "Library-Management/pom.xml",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/Library/Java/JavaVirtualMachines/temurin-25.jdk/Contents/Home",
+            "default": true
+        }
+    ],
+    "html.customData": [],
+    "css.lint.duplicateProperties": "warning",
+    "css.lint.emptyRules": "warning"
+}
